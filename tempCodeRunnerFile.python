@@ -1,0 +1,2 @@
+arr = ["car", "cus" ,"cart", "carat"]
+print(arr.sort())
